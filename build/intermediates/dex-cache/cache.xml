@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="494a64b567cdfd2a6a407a3bc33f77310dcb0548">
+        sha1="ad2b1c81979ca6c8130ccbb469ae39e060dad0db">
         <dex dex="D:\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6c0560d627349a19a6f200072c6531bf5ecc0ba7\classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="23.0.1"
-        sha1="35128f1d49525909b34e0900277aca5f8e2d4fdf">
+        sha1="81eca1f40020fbe62b25e09eb8f2101367d301e5">
         <dex dex="D:\Udacity\xyzreader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b20d2c27e205bc5b487c5b581f62f5ad275fc186\classes.dex" />
     </item>
     <item
